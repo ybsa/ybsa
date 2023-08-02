@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Social Media Profiles</title>
+</head>
+<body>
+<p>Find me on social media: </p>
+<ul>
+<li><a
+href="https://www.facebook.com/prinsha.gc.94?mibextid=LQQJ4d">Facebook</a></li>
+<li><a
+href="https://instagram.com/prinsha_______?igshid=OGQ5ZDc2ODk2ZA==">Instagram</a></li>
+</ul>
+</body>
+</html>
+
